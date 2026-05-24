@@ -151,3 +151,17 @@ body {
     background-color: #e50000;
     transform: scale(1.05);
 }
+
+@media (max-width: 768px) {
+    .Content-row {
+        flex-direction: column;
+        gap: 20px;
+    }
+
+    .Header-box, .About-box, .Skills-box, .Hobbies-box, .Projects-box, .connection-box {
+        padding: 20px 15px;
+    }
+    h1{
+        font-size: 1.8em;
+    }
+}
