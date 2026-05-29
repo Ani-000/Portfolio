@@ -21,11 +21,3 @@
 
 **Hardware:**
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
-
-## 📊 GitHub Stats
-
-![Anirudh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ani-000&show_icons=true&theme=tokyonight)
-
----
-
-*🚀 Just getting started — exciting things coming soon!*
